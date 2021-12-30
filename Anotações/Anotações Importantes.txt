@@ -1,1 +1,21 @@
-Nesse documento ficarão anotações importantes sobre o estudo de desenvolvimento Android
+Android Studio
+
+Apply chances and restart activit - Aplica as mudanças e reestarta a aplicação sem precisar Buildar novamente
+
+Android Profiler - Mostra as informações de uso de CPU, Memória, Rede e Energia (em tempo real)
+
+Debugger:
+-Debug App - Executa o app em modo de deputação e pausa a execução conforme os pontos de interrupçãao definidos por você
+-Attach Debugger - Adiciona um debugger com o app em execução, sem que ele tenha que reiniciar o build
+-Evaluate Expressions - Funciona quando a aplicação está pausada em um ponto de interrupção, abrindo um conssole, onde você consegue simular novas ocasiões (Alt + F8)
+
+Pesquisas:
+-Pesquisa de Classes - Possibilita que você encontre determinada classe sem navegar no projeto (2x Shift)
+-Find in Path - Permite que você encontre qualquer tipo de testo, código, classe, métoddo e etc... (Shift + Windows/Comand + F)
+-Layout Inspector - Tira um screenshot da tela que está em exibição no dispositivo e te detalha toda a estrutura de layout, como IDs, Textos, tipo de layout etc... (Tools - Layout Inspector)
+
+
+
+
+
+**Fazer BootCamp do SQL Lite
